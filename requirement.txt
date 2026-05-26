@@ -1,0 +1,7 @@
+Tools:
+Google Colab
+Jupyter Notebook
+
+Libraries:
+numpy 
+pandas
